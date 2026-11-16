@@ -1,0 +1,18 @@
+# Public files only. APKs belong in GitHub Releases, not Git history.
+*
+!/.github/
+!/.github/ISSUE_TEMPLATE/
+!/docs/
+!/README.md
+!/README.en.md
+!/docs/USAGE.md
+!/CONTRIBUTING.md
+!/SECURITY.md
+!/.github/ISSUE_TEMPLATE/bug_report.md
+!/.github/ISSUE_TEMPLATE/feature_request.md
+!/.github/ISSUE_TEMPLATE/config.yml
+!/.nojekyll
+!/index.html
+!/privacy.html
+!/PRIVACY.md
+!/.gitignore

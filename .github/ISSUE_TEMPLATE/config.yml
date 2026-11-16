@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Private security or privacy report / 私密安全或隐私反馈
+    url: mailto:sdrxdev@gmail.com
+    about: Do not disclose sensitive data in public issues / 请勿在公开问题中披露敏感数据
